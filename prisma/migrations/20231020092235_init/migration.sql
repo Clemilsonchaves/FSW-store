@@ -5,7 +5,7 @@ CREATE TABLE "Category" (
     "slug" TEXT NOT NULL,
     "imageUrl" TEXT NOT NULL,
 
-    CONSTRAINT "Category_pkey" PRIMARY KEY ("id")
+    CONSTRAINT "Category_pkey" PRIMARY KEY ("id") 
 );
 
 -- CreateTable
